@@ -1,0 +1,13 @@
+html, body {
+	background-image: url("patgrau.github.io/Background5.jpg");
+	background-position: center;
+	background-size: cover;
+	text-align: center;
+	color: white;
+}
+
+.text{
+	padding: 20% 0;
+	font-family: 'Maitree', serif;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
