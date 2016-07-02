@@ -85,10 +85,10 @@ html, body {
 	height: 100%;
 	width: 100%;
 	font-family: 'Dancing Script', cursive;
-	font-size: 120%;
 }
 
 .text{
+	font-size: 1.2em;
 	padding: 20%, 0;
 	color: black;
 	text-align: center;
