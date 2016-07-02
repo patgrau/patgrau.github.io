@@ -24,6 +24,7 @@ body {
 	font-size: 1.2em;
 	text-decoration: none;
 	transition: color 0.2s, background 0.5s;
+	font-family: 'Open Sans Condensed', Helvetica, sans-serif;
 }
 
 .nav-item a:hover{
@@ -83,12 +84,13 @@ label[for="nav-trigger"] {
 html, body {
 	height: 100%;
 	width: 100%;
-	font-family: 'Maitree', Helvetica, sans-serif;
+	font-family: 'Dancing Script', cursive;
+	font-size: 120%;
 }
 
 .text{
 	padding: 20%, 0;
-	color: white;
+	color: black;
 	text-align: center;
-	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+	/*text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;*/
 }
