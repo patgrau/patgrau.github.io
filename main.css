@@ -1,13 +1,3 @@
-html, body {
-	/*background-image: url("patgrau.github.io/Background5.jpg");
-	background-position: center;
-	background-size: cover;*/
-	text-align: center;
-	color: white;
-	height: 100%;
-	width: 100%;
-	font-family: 'Maitree', serif;
-}
 
 body {
 	overflow-x: hidden;
@@ -58,6 +48,7 @@ body {
 					  rgb(221,241,249) 35%,
 					  rgb(160,216,239) 100%);
 	background-size: 200%;
+	text-align: center;
 }
 
 .nav-trigger {
@@ -95,4 +86,14 @@ label[for="nav-trigger"] {
 .text{
 	padding: 20% 0;
 	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+html, body {
+	/*background-image: url("patgrau.github.io/Background5.jpg");
+	background-position: center;
+	background-size: cover;*/
+	color: white;
+	height: 100%;
+	width: 100%;
+	font-family: 'Maitree', serif;
 }
