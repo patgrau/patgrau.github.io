@@ -80,7 +80,7 @@ label[for="nav-trigger"] {
 html, body {
 	height: 100%;
 	width: 100%;
-	font-family: 'Dancing Script', cursive;
+	font-family: 'IM Fell English', serif;
 }
 
 .text{
@@ -91,6 +91,15 @@ html, body {
 	/*text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;*/
 }
 
+h1{
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+
+h2{
+	font-family: 'Monsieur La Doulaise', cursive;
+	font-size: 2.5em;
+}
+
 .info{
-	font-family: "Atma", sans-serif;
+	font-size: .8em;
 }
