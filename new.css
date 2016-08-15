@@ -44,7 +44,7 @@ header a:hover{
   background-image: url("Background5.jpg");
   background-size: cover;
   color: #ffffff;
-  height: 500px;
+  /*height: 500px;*/
   text-shadow: 0.25px 0.25px 0.25px #000000;
 }
 
@@ -58,7 +58,11 @@ header a:hover{
   font-family: 'Monsieur La Doulaise', cursive;
   /*margin: 0 0 20px;*/
   color: #fff;
-  font-size: 3em;
+  font-size: 4em;
+}
+
+h1 {
+	font-family: 'Open Sans Condensed', sans-serif;
 }
 
 section .row img {
